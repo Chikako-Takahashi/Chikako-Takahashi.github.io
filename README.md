@@ -1,3 +1,5 @@
+## ABOUT
+
 I am a PhD Candidate in Linguistics at Stony Brook University.
 
 I received my Masters in TESOL from TeachersCollege, Columbia University and have taught English for more than nine years, in Japan, the US and Canada. I have also taught a Structure of English class to TESOL graduate students. 
