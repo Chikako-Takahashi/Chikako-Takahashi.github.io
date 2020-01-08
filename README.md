@@ -6,7 +6,7 @@ I received my Masters in TESOL from TeachersCollege, Columbia University and hav
 
 My main interests in Linguistics are Phonology, Phonetics, Second Language Phonology/Prosody, Second Language Acquisition and Psycholinguistics.
 
-My dissertation focuses to answer what factors affect L2 influence on L1 phonetic learning (Expected completion in May 2020).
+My dissertation focuses to answer what factors affect L2 influence on L1 phonetic learning (Expected completion in August 2020).
 
 I have also worked on information structure of Japanese ditransitives and how metathesis can be analyzed in Harmonic Serialism. 
 
