@@ -2,11 +2,11 @@
 
 I am a quantitative and qualitative researcher and a PhD Candidate in Linguistics at Stony Brook University.
 
-I received my Masters in TESOL from TeachersCollege, Columbia University and have taught English for more than nine years, in Japan, the US and Canada. I have also taught a Structure of English class to TESOL graduate students. 
+I received my Masters in TESOL from TeachersCollege, Columbia University and have taught English for more than nine years, in Japan, the US and Canada. I have also taught several undergraduate and graduate courses at Stony Brook University and Adlephi University. 
 
-My main interests in Linguistics are Phonology, Phonetics, Second Language Phonology/Prosody, Second Language Acquisition and Psycholinguistics.
+My main interests in Linguistics are Phonetics, Phonology, Second Language Phonology/Prosody, Second Language Acquisition and Psycholinguistics.
 
-My dissertation focuses to answer what factors affect L2 influence on L1 phonetic learning (Expected completion in August 2020).
+My dissertation focuses to answer what factors affect L2 influence on L1 phonetic learning (Expected completion in December 2020).
 
 I have also worked on information structure of Japanese ditransitives and how metathesis can be analyzed in Harmonic Serialism. 
 
@@ -15,7 +15,7 @@ I am currently involved in NSF funded interdisciplinary research project investi
 ## Selected Publications, awards, and presentations
 
 ### Referred Journal Publications
-Takahashi, Chikako (2020). No transposition in Harmonic Serialism. Journal of Phonology 36(4). 
+Takahashi, Chikako (2019). No transposition in Harmonic Serialism. Journal of Phonology 36(4). 
 
 ### Grants and Awards
 - Faculty-Staff Dissertation Fellowship Award ($10.000), *Stony Brook University May 2018*
@@ -30,8 +30,7 @@ Takahashi, Chikako (2020). No transposition in Harmonic Serialism. Journal of Ph
 - Takahashi, C. (2012). Impact of Dictionary Use Skills Instructions on Second Language Writing, Working Papers in TESOL and Applied Linguistics, Teachers College, Columbia University. Vol. 12.
 
 ### Selected Presentations
-- Chikako Takahashi, Perception of Native and Non-native Contrasts by Japanese Late Learners of En-
-glish, 177th Meeting Acoustical Society of America, May 13-17, 2019, Louisville, KY (Poster)
+- Chikako Takahashi, Perception of Native and Non-native Contrasts by Japanese Late Learners of English, 177th Meeting Acoustical Society of America, May 13-17, 2019, Louisville, KY (Poster)
 Alex H.L. Yeung, Hyunah Baek, Chikako Takahashi, Joseph Duncan, Sharon Benedett, Jiwon Hwang, Ellen Broselow, Pitch range, intensity, and vocal fry in non-native and native English focus intonation, 177th Meeting Acoustical Society of America, May 13-17, 2019, Louisville, KY (Poster)
 - Chikako Takahashi, Locality restriction on metathesis in Harmonic Serialism. 2018 Old World Con- ference on Phonology (OCP), January 12-14, 2018, London, UK.
 - Chikako Takahashi, Hyunah Beak, Sophia Kao & Alex HL Yeung Processing and production of English focus prosody by native English vs. Mandarin speakers. Processing Prosody Workshop 2017 (ProPro 2017), August 31 - September 1, 2017, Tubingen, Germany.
