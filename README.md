@@ -1,7 +1,6 @@
 ## ABOUT
 
-I am a quantitative and qualitative researcher and a PhD Candidate in Linguistics at Stony Brook University.
-
+I am a second language researcher and linguist who are passionate about both research and teaching. 
 I received my Masters in TESOL from TeachersCollege, Columbia University and has recently received PhD in Linguistics from Stony Brook University.
 
 My main interests in Linguistics are Phonetics, Phonology, Second Language Phonology/Prosody, Second Language Acquisition and Psycholinguistics. My dissertation focused on various factors that affect L2 influence on L1 phonetic learning.
